@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109000514007",
+    "firebase_url": "https://trial-app-ffff5.firebaseio.com",
+    "project_id": "trial-app-ffff5",
+    "storage_bucket": "trial-app-ffff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109000514007:android:09332003f0d5f36d",
+        "android_client_info": {
+          "package_name": "lakhan.trialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109000514007-mvmuvubpl3u4svjes2h6tblec29vtoio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lakhan.trialapp",
+            "certificate_hash": "130aaabdddd186853a81adf682f178344c98cc41"
+          }
+        },
+        {
+          "client_id": "109000514007-esnbkgqgkanue5g2j19nkvj9npjkcc8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2VP0WYbTMD2D7-Fc20hZBmM9pK7qggs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109000514007-esnbkgqgkanue5g2j19nkvj9npjkcc8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

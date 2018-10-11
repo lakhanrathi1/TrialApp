@@ -7,5 +7,62 @@
     tools:context=".MainActivity">
 
 
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="79dp"
+        android:ems="10"
+        android:hint="@string/name"
+        android:inputType="textPersonName"
+        android:textColorHint="@color/colorAccent" />
+
+
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="145dp"
+        android:hint="@string/phone"
+        android:inputType="text"
+        android:textColorHint="@color/colorAccent" />
+
+
+    <EditText
+        android:id="@+id/occupation"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="226dp"
+        android:hint="@string/occupation"
+        android:inputType="text"
+        android:textColorHint="@color/colorAccent" />
+
+
+    <EditText
+        android:id="@+id/location"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="217dp"
+        android:hint="@string/location"
+        android:inputType="text"
+        android:textColorHint="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="87dp"
+        android:text="@string/add_to_data" />
+
 
 </RelativeLayout>

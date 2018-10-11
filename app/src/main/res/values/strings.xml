@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Trial App</string>
+    <string name="occupation">occupation</string>
+    <string name="location">location</string>
+    <string name="add_to_data">Add to Data</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
 </resources>

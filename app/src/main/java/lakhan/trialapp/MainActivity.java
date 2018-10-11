@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
                 mp = new ProgressDialog(MainActivity.this);
                 mp.setTitle("Submitting the Question");
-                mp.setMessage("Wait for a Min");
+                mp.setMessage("Wait for a Min uploading ");
                 mp.setCanceledOnTouchOutside(false);
                 mp.show();
                 myref.child("userinfo").child(key).setValue(map).addOnCompleteListener(new OnCompleteListener<Void>() {
